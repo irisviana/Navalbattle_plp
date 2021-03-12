@@ -1,0 +1,57 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\Iris Viana\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Iris Viana\\Desktop\\Disciplinas Cursadas\\PLP\\Batalha Naval\\Batalha Naval\\Batalha Naval\\Batalha Naval.csproj",
+      "projectName": "Batalha Naval",
+      "projectPath": "C:\\Users\\Iris Viana\\Desktop\\Disciplinas Cursadas\\PLP\\Batalha Naval\\Batalha Naval\\Batalha Naval\\Batalha Naval.csproj",
+      "packagesPath": "C:\\Users\\Iris Viana\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Iris Viana\\Desktop\\Disciplinas Cursadas\\PLP\\Batalha Naval\\Batalha Naval\\Batalha Naval\\obj\\",
+      "projectStyle": "PackageReference",
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

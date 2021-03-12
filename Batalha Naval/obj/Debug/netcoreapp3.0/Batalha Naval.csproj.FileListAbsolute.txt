@@ -1,0 +1,22 @@
+C:\Users\Luis\Documents\Batalha Naval\bin\Debug\netcoreapp3.0\Batalha Naval.exe
+C:\Users\Luis\Documents\Batalha Naval\bin\Debug\netcoreapp3.0\Batalha Naval.deps.json
+C:\Users\Luis\Documents\Batalha Naval\bin\Debug\netcoreapp3.0\Batalha Naval.runtimeconfig.json
+C:\Users\Luis\Documents\Batalha Naval\bin\Debug\netcoreapp3.0\Batalha Naval.runtimeconfig.dev.json
+C:\Users\Luis\Documents\Batalha Naval\bin\Debug\netcoreapp3.0\Batalha Naval.dll
+C:\Users\Luis\Documents\Batalha Naval\bin\Debug\netcoreapp3.0\Batalha Naval.pdb
+C:\Users\Luis\Documents\Batalha Naval\obj\Debug\netcoreapp3.0\Batalha Naval.csprojAssemblyReference.cache
+C:\Users\Luis\Documents\Batalha Naval\obj\Debug\netcoreapp3.0\Batalha Naval.AssemblyInfoInputs.cache
+C:\Users\Luis\Documents\Batalha Naval\obj\Debug\netcoreapp3.0\Batalha Naval.AssemblyInfo.cs
+C:\Users\Luis\Documents\Batalha Naval\obj\Debug\netcoreapp3.0\Batalha Naval.dll
+C:\Users\Luis\Documents\Batalha Naval\obj\Debug\netcoreapp3.0\Batalha Naval.pdb
+C:\Users\Iris Viana\Desktop\PLP\Batalha Naval\Batalha Naval\Batalha Naval\bin\Debug\netcoreapp3.0\Batalha Naval.exe
+C:\Users\Iris Viana\Desktop\PLP\Batalha Naval\Batalha Naval\Batalha Naval\bin\Debug\netcoreapp3.0\Batalha Naval.deps.json
+C:\Users\Iris Viana\Desktop\PLP\Batalha Naval\Batalha Naval\Batalha Naval\bin\Debug\netcoreapp3.0\Batalha Naval.runtimeconfig.json
+C:\Users\Iris Viana\Desktop\PLP\Batalha Naval\Batalha Naval\Batalha Naval\bin\Debug\netcoreapp3.0\Batalha Naval.runtimeconfig.dev.json
+C:\Users\Iris Viana\Desktop\PLP\Batalha Naval\Batalha Naval\Batalha Naval\bin\Debug\netcoreapp3.0\Batalha Naval.dll
+C:\Users\Iris Viana\Desktop\PLP\Batalha Naval\Batalha Naval\Batalha Naval\bin\Debug\netcoreapp3.0\Batalha Naval.pdb
+C:\Users\Iris Viana\Desktop\PLP\Batalha Naval\Batalha Naval\Batalha Naval\obj\Debug\netcoreapp3.0\Batalha Naval.csprojAssemblyReference.cache
+C:\Users\Iris Viana\Desktop\PLP\Batalha Naval\Batalha Naval\Batalha Naval\obj\Debug\netcoreapp3.0\Batalha Naval.AssemblyInfoInputs.cache
+C:\Users\Iris Viana\Desktop\PLP\Batalha Naval\Batalha Naval\Batalha Naval\obj\Debug\netcoreapp3.0\Batalha Naval.AssemblyInfo.cs
+C:\Users\Iris Viana\Desktop\PLP\Batalha Naval\Batalha Naval\Batalha Naval\obj\Debug\netcoreapp3.0\Batalha Naval.dll
+C:\Users\Iris Viana\Desktop\PLP\Batalha Naval\Batalha Naval\Batalha Naval\obj\Debug\netcoreapp3.0\Batalha Naval.pdb
